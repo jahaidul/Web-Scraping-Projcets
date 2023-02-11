@@ -1,12 +1,12 @@
 # Web-Scraping-Projects
 A collection of web scraping projects to practice your skills or build a portfolio.
 
-| Project | Description |
-|---|---|
-| [H&M Clothing](https://github.com/jahaidul/H-M-Scraper) | Products and price data |
-| [Daraz](https://github.com/jahaidul/Daraz-Scraping) | Catogory wise Products and price data |
-| [Pharmeasy](https://github.com/jahaidul/Pharmeasy_Scrapping) | Products and price data |
-| [Ryans](https://github.com/jahaidul/ryans-scraping) | Laptop Price and specification Data|
+| Project | Description | Source |
+|---|---|---|
+| [H&M Clothing](https://github.com/jahaidul/H-M-Scraper) | Products and price data | https://www2.hm.com/en_us/index.html |
+| [Daraz](https://github.com/jahaidul/Daraz-Scraping) | Catogory wise Products and price data | https://www.daraz.com.bd/ |
+| [Pharmeasy](https://github.com/jahaidul/Pharmeasy_Scrapping) | Products and price data | https://pharmeasy.in/ |
+| [Ryans](https://github.com/jahaidul/ryans-scraping) | Laptop Price and specification Data| https://www.ryanscomputers.com/ |
 
 
 ## Requirements
