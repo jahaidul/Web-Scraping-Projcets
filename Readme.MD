@@ -5,6 +5,7 @@ A collection of web scraping projects to practice your skills or build a portfol
 |---|---|
 | [H&M Clothing](https://github.com/jahaidul/H-M-Scraper) | Products and price data |
 | [Pharmeasy](https://github.com/jahaidul/Pharmeasy_Scrapping) | Products and price data |
+| [Daraz](https://github.com/jahaidul/Daraz-Scraping) | Catogory Wise Products and price data |
 
 
 ## Requirements
