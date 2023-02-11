@@ -6,6 +6,7 @@ A collection of web scraping projects to practice your skills or build a portfol
 | [H&M Clothing](https://github.com/jahaidul/H-M-Scraper) | Products and price data |
 | [Pharmeasy](https://github.com/jahaidul/Pharmeasy_Scrapping) | Products and price data |
 | [Indeed](https://github.com/jahaidul/indeed-job-scraping) | job postings based on search criteria|
+| [Ryans](https://github.com/jahaidul/ryans-scraping) | Laptop Price and specification Data|
 
 
 ## Requirements
@@ -14,6 +15,7 @@ A few of these projects use browser automation, but most do not. For this, I use
 - BeautifulSoup
 - Selenium
 - Scrapy
+- Pandas
 - lxml
 
 ## Expectations
