@@ -4,9 +4,13 @@ A collection of web scraping projects to practice your skills or build a portfol
 | Project | Description | Source |
 |---|---|---|
 | [H&M Clothing](https://github.com/jahaidul/H-M-Scraper) | Products and price data | https://www2.hm.com/en_us/index.html |
-| [Daraz](https://github.com/jahaidul/Daraz-Scraping) | Catogory wise Products and price data | https://www.daraz.com.bd/ |
+| [Daraz](https://github.com/jahaidul/Daraz-Scraping) | Category wise Products and price data | https://www.daraz.com.bd/ |
+| [Evaly](https://github.com/jahaidul/Evaly-Scraping) | Products and price data | https://evaly.com.bd/ |
 | [Pharmeasy](https://github.com/jahaidul/Pharmeasy_Scrapping) | Products and price data | https://pharmeasy.in/ |
+| [Pickaboo](https://github.com/jahaidul/Pickaboo-Scraping) | Products and price data| https://www.pickaboo.com/ |
 | [Ryans](https://github.com/jahaidul/ryans-scraping) | Laptop Price and specification Data| https://www.ryanscomputers.com/ |
+
+
 
 
 ## Requirements
