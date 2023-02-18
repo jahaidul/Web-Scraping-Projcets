@@ -1,5 +1,5 @@
 # Web-Scraping-Projects
-A collection of web scraping projects to practice your skills or build a portfolio.
+Web scraping project aimed at collecting data for further Analysis.
 
 | Project | Description | Source |
 |---|---|---|
