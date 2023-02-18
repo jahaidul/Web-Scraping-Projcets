@@ -3,6 +3,7 @@ A collection of web scraping projects to practice your skills or build a portfol
 
 | Project | Description | Source |
 |---|---|---|
+| [Cryptocurrency Prices Dataset](https://github.com/jahaidul/Cryptocurrency-Prices-Dataset) | Price, Volume, Market Cap, CMC Rank | https://www.coinmarketcap.com |
 | [H&M Clothing](https://github.com/jahaidul/H-M-Scraper) | Products and price data | https://www2.hm.com/en_us/index.html |
 | [Daraz](https://github.com/jahaidul/Daraz-Scraping) | Category wise Products and price data | https://www.daraz.com.bd/ |
 | [Evaly](https://github.com/jahaidul/Evaly-Scraping) | Products and price data | https://evaly.com.bd/ |
